@@ -1,0 +1,2478 @@
+{
+    "CarParkId": "001",
+    "CarParkName": "府前廣場地下停車場",
+    "TotalSpaces": 1998,
+    "AvailableSpaces": 428
+},
+{
+    "CarParkId": "002",
+    "CarParkName": "松壽廣場地下停車場",
+    "TotalSpaces": 446,
+    "AvailableSpaces": 110
+},
+{
+    "CarParkId": "003",
+    "CarParkName": "臺北市災害應變中心地下停車場",
+    "TotalSpaces": 174,
+    "AvailableSpaces": 23
+},
+{
+    "CarParkId": "004",
+    "CarParkName": "雅祥公園地下停車場",
+    "TotalSpaces": 209,
+    "AvailableSpaces": 43
+},
+{
+    "CarParkId": "005",
+    "CarParkName": "立農公園地下停車場",
+    "TotalSpaces": 209,
+    "AvailableSpaces": 29
+},
+{
+    "CarParkId": "006",
+    "CarParkName": "捷運奇岩站轉乘停車場",
+    "TotalSpaces": 0,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "007",
+    "CarParkName": "萬華國中地下停車場",
+    "TotalSpaces": 519,
+    "AvailableSpaces": 56
+},
+{
+    "CarParkId": "008",
+    "CarParkName": "捷運劍南路站轉乘停車場",
+    "TotalSpaces": 288,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "014",
+    "CarParkName": "興雅國中地下停車場",
+    "TotalSpaces": 456,
+    "AvailableSpaces": 98
+},
+{
+    "CarParkId": "015",
+    "CarParkName": "峨眉立體停車場",
+    "TotalSpaces": 518,
+    "AvailableSpaces": 225
+},
+{
+    "CarParkId": "016",
+    "CarParkName": "中山堂地下停車場",
+    "TotalSpaces": 450,
+    "AvailableSpaces": 89
+},
+{
+    "CarParkId": "018",
+    "CarParkName": "洛陽綜合立體停車場",
+    "TotalSpaces": 1718,
+    "AvailableSpaces": 218
+},
+{
+    "CarParkId": "019",
+    "CarParkName": "塔城公園地下停車場",
+    "TotalSpaces": 159,
+    "AvailableSpaces": 38
+},
+{
+    "CarParkId": "020",
+    "CarParkName": "百齡高中地下停車場",
+    "TotalSpaces": 236,
+    "AvailableSpaces": 128
+},
+{
+    "CarParkId": "021",
+    "CarParkName": "前港公園地下停車場",
+    "TotalSpaces": 535,
+    "AvailableSpaces": 94
+},
+{
+    "CarParkId": "022",
+    "CarParkName": "五分埔公園地下停車場",
+    "TotalSpaces": 214,
+    "AvailableSpaces": 31
+},
+{
+    "CarParkId": "023",
+    "CarParkName": "民權公園地下停車場",
+    "TotalSpaces": 731,
+    "AvailableSpaces": 146
+},
+{
+    "CarParkId": "024",
+    "CarParkName": "金華公園地下停車場",
+    "TotalSpaces": 193,
+    "AvailableSpaces": 19
+},
+{
+    "CarParkId": "025",
+    "CarParkName": "古亭國中地下停車場",
+    "TotalSpaces": 261,
+    "AvailableSpaces": 69
+},
+{
+    "CarParkId": "027",
+    "CarParkName": "景華公園地下停車場",
+    "TotalSpaces": 750,
+    "AvailableSpaces": 87
+},
+{
+    "CarParkId": "028",
+    "CarParkName": "松山高中地下停車場",
+    "TotalSpaces": 231,
+    "AvailableSpaces": 66
+},
+{
+    "CarParkId": "029",
+    "CarParkName": "東湖國小地下停車場",
+    "TotalSpaces": 359,
+    "AvailableSpaces": 52
+},
+{
+    "CarParkId": "030",
+    "CarParkName": "大稻埕公園地下停車場",
+    "TotalSpaces": 201,
+    "AvailableSpaces": 46
+},
+{
+    "CarParkId": "031",
+    "CarParkName": "附中公園地下停車場",
+    "TotalSpaces": 118,
+    "AvailableSpaces": 25
+},
+{
+    "CarParkId": "032",
+    "CarParkName": "西松高中地下停車場",
+    "TotalSpaces": 348,
+    "AvailableSpaces": 93
+},
+{
+    "CarParkId": "033",
+    "CarParkName": "進安公園地下停車場",
+    "TotalSpaces": 154,
+    "AvailableSpaces": 26
+},
+{
+    "CarParkId": "034",
+    "CarParkName": "辛亥國小地下停車場",
+    "TotalSpaces": 132,
+    "AvailableSpaces": 31
+},
+{
+    "CarParkId": "035",
+    "CarParkName": "成淵高中地下停車場",
+    "TotalSpaces": 273,
+    "AvailableSpaces": 60
+},
+{
+    "CarParkId": "036",
+    "CarParkName": "大豐公園地下停車場",
+    "TotalSpaces": 239,
+    "AvailableSpaces": 60
+},
+{
+    "CarParkId": "037",
+    "CarParkName": "大安高工地下停車場",
+    "TotalSpaces": 526,
+    "AvailableSpaces": 126
+},
+{
+    "CarParkId": "038",
+    "CarParkName": "成德立體停車場",
+    "TotalSpaces": 185,
+    "AvailableSpaces": 4
+},
+{
+    "CarParkId": "039",
+    "CarParkName": "社園立體停車場",
+    "TotalSpaces": 266,
+    "AvailableSpaces": 90
+},
+{
+    "CarParkId": "040",
+    "CarParkName": "健康國小地下停車場",
+    "TotalSpaces": 199,
+    "AvailableSpaces": 53
+},
+{
+    "CarParkId": "041",
+    "CarParkName": "忠信地下停車場",
+    "TotalSpaces": 321,
+    "AvailableSpaces": 42
+},
+{
+    "CarParkId": "042",
+    "CarParkName": "建成國中地下停車場",
+    "TotalSpaces": 333,
+    "AvailableSpaces": 114
+},
+{
+    "CarParkId": "043",
+    "CarParkName": "興中立體停車場",
+    "TotalSpaces": 650,
+    "AvailableSpaces": 111
+},
+{
+    "CarParkId": "044",
+    "CarParkName": "青年公園高爾夫球場地下停車場",
+    "TotalSpaces": 321,
+    "AvailableSpaces": 74
+},
+{
+    "CarParkId": "046",
+    "CarParkName": "動物園站地下停車場",
+    "TotalSpaces": 154,
+    "AvailableSpaces": 92
+},
+{
+    "CarParkId": "048",
+    "CarParkName": "信義廣場地下停車場",
+    "TotalSpaces": 380,
+    "AvailableSpaces": 171
+},
+{
+    "CarParkId": "049",
+    "CarParkName": "大業立體停車場",
+    "TotalSpaces": 124,
+    "AvailableSpaces": 44
+},
+{
+    "CarParkId": "050",
+    "CarParkName": "台北101停車場",
+    "TotalSpaces": 1350,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "052",
+    "CarParkName": "民生社區活動中心地下停車場",
+    "TotalSpaces": 155,
+    "AvailableSpaces": 25
+},
+{
+    "CarParkId": "053",
+    "CarParkName": "民生立體停車場",
+    "TotalSpaces": 467,
+    "AvailableSpaces": 173
+},
+{
+    "CarParkId": "054",
+    "CarParkName": "北寧路地下停車場",
+    "TotalSpaces": 76,
+    "AvailableSpaces": 30
+},
+{
+    "CarParkId": "055",
+    "CarParkName": "市民大道(塔城段)",
+    "TotalSpaces": 252,
+    "AvailableSpaces": 68
+},
+{
+    "CarParkId": "056",
+    "CarParkName": "大安森林公園地下停車場",
+    "TotalSpaces": 1379,
+    "AvailableSpaces": 384
+},
+{
+    "CarParkId": "057",
+    "CarParkName": "市民大道(公中段)",
+    "TotalSpaces": 184,
+    "AvailableSpaces": 21
+},
+{
+    "CarParkId": "058",
+    "CarParkName": "市民大道(中林段)",
+    "TotalSpaces": 506,
+    "AvailableSpaces": 159
+},
+{
+    "CarParkId": "059",
+    "CarParkName": "市民大道(林金段)",
+    "TotalSpaces": 990,
+    "AvailableSpaces": 350
+},
+{
+    "CarParkId": "060",
+    "CarParkName": "市民大道(建復段)",
+    "TotalSpaces": 183,
+    "AvailableSpaces": 26
+},
+{
+    "CarParkId": "062",
+    "CarParkName": "市民大道(復敦段)",
+    "TotalSpaces": 219,
+    "AvailableSpaces": 14
+},
+{
+    "CarParkId": "064",
+    "CarParkName": "市民大道(敦延段)",
+    "TotalSpaces": 222,
+    "AvailableSpaces": 30
+},
+{
+    "CarParkId": "065",
+    "CarParkName": "市民大道(延吉段)",
+    "TotalSpaces": 81,
+    "AvailableSpaces": 5
+},
+{
+    "CarParkId": "066",
+    "CarParkName": "揚雅立體停車場",
+    "TotalSpaces": 205,
+    "AvailableSpaces": 62
+},
+{
+    "CarParkId": "067",
+    "CarParkName": "雙園國中地下停車場",
+    "TotalSpaces": 321,
+    "AvailableSpaces": 59
+},
+{
+    "CarParkId": "068",
+    "CarParkName": "文昌國小地下停車場",
+    "TotalSpaces": 227,
+    "AvailableSpaces": 144
+},
+{
+    "CarParkId": "069",
+    "CarParkName": "青年公園棒球場地下停車場",
+    "TotalSpaces": 276,
+    "AvailableSpaces": 93
+},
+{
+    "CarParkId": "070",
+    "CarParkName": "榮星花園地下停車場",
+    "TotalSpaces": 247,
+    "AvailableSpaces": 30
+},
+{
+    "CarParkId": "071",
+    "CarParkName": "朝陽公園地下停車場",
+    "TotalSpaces": 249,
+    "AvailableSpaces": 24
+},
+{
+    "CarParkId": "072",
+    "CarParkName": "福林公園地下停車場",
+    "TotalSpaces": 246,
+    "AvailableSpaces": 61
+},
+{
+    "CarParkId": "073",
+    "CarParkName": "林森公園地下停車場",
+    "TotalSpaces": 867,
+    "AvailableSpaces": 161
+},
+{
+    "CarParkId": "074",
+    "CarParkName": "偶戲博物館地下停車場",
+    "TotalSpaces": 71,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "075",
+    "CarParkName": "中崙高中地下停車場",
+    "TotalSpaces": 354,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "076",
+    "CarParkName": "陽明山第二停車場",
+    "TotalSpaces": 127,
+    "AvailableSpaces": 127
+},
+{
+    "CarParkId": "077",
+    "CarParkName": "陽明山花鐘停車場",
+    "TotalSpaces": 36,
+    "AvailableSpaces": 31
+},
+{
+    "CarParkId": "078",
+    "CarParkName": "洲子立體停車場",
+    "TotalSpaces": 396,
+    "AvailableSpaces": 177
+},
+{
+    "CarParkId": "079",
+    "CarParkName": "僑安地下停車場",
+    "TotalSpaces": 432,
+    "AvailableSpaces": 30
+},
+{
+    "CarParkId": "080",
+    "CarParkName": "龍門國中地下停車場",
+    "TotalSpaces": 730,
+    "AvailableSpaces": 82
+},
+{
+    "CarParkId": "081",
+    "CarParkName": "康樂立體停車場",
+    "TotalSpaces": 156,
+    "AvailableSpaces": 49
+},
+{
+    "CarParkId": "082",
+    "CarParkName": "永盛公園地下停車場",
+    "TotalSpaces": 229,
+    "AvailableSpaces": 24
+},
+{
+    "CarParkId": "084",
+    "CarParkName": "麗湖國小地下停車場",
+    "TotalSpaces": 235,
+    "AvailableSpaces": 55
+},
+{
+    "CarParkId": "085",
+    "CarParkName": "臺北花木批發市場地下停車場",
+    "TotalSpaces": 420,
+    "AvailableSpaces": 84
+},
+{
+    "CarParkId": "086",
+    "CarParkName": "振興公園地下停車場",
+    "TotalSpaces": 215,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "087",
+    "CarParkName": "民有市場地下停車場",
+    "TotalSpaces": 341,
+    "AvailableSpaces": 44
+},
+{
+    "CarParkId": "088",
+    "CarParkName": "三張里地下停車場",
+    "TotalSpaces": 362,
+    "AvailableSpaces": 24
+},
+{
+    "CarParkId": "089",
+    "CarParkName": "春光公園地下停車場",
+    "TotalSpaces": 219,
+    "AvailableSpaces": 28
+},
+{
+    "CarParkId": "090",
+    "CarParkName": "萬板地下停車場",
+    "TotalSpaces": 184,
+    "AvailableSpaces": 50
+},
+{
+    "CarParkId": "092",
+    "CarParkName": "濱江國中地下停車場",
+    "TotalSpaces": 215,
+    "AvailableSpaces": 34
+},
+{
+    "CarParkId": "093",
+    "CarParkName": "建成公園地下停車場",
+    "TotalSpaces": 246,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "094",
+    "CarParkName": "捷運劍潭站轉乘停車場",
+    "TotalSpaces": 142,
+    "AvailableSpaces": 35
+},
+{
+    "CarParkId": "096",
+    "CarParkName": "石牌國小地下停車場",
+    "TotalSpaces": 472,
+    "AvailableSpaces": 61
+},
+{
+    "CarParkId": "097",
+    "CarParkName": "海光公園地下停車場",
+    "TotalSpaces": 107,
+    "AvailableSpaces": 16
+},
+{
+    "CarParkId": "098",
+    "CarParkName": "港富立體停車場",
+    "TotalSpaces": 244,
+    "AvailableSpaces": 66
+},
+{
+    "CarParkId": "099",
+    "CarParkName": "長安國小地下停車場",
+    "TotalSpaces": 284,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "100",
+    "CarParkName": "七星公園地下停車場",
+    "TotalSpaces": 334,
+    "AvailableSpaces": 80
+},
+{
+    "CarParkId": "101",
+    "CarParkName": "捷運木柵機廠停車場",
+    "TotalSpaces": 692,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "102",
+    "CarParkName": "承德公園地下停車場",
+    "TotalSpaces": 182,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "103",
+    "CarParkName": "南港國小地下停車場",
+    "TotalSpaces": 311,
+    "AvailableSpaces": 189
+},
+{
+    "CarParkId": "105",
+    "CarParkName": "玉成國小地下停車場",
+    "TotalSpaces": 297,
+    "AvailableSpaces": 64
+},
+{
+    "CarParkId": "106",
+    "CarParkName": "蓬萊國小地下停車場",
+    "TotalSpaces": 292,
+    "AvailableSpaces": 57
+},
+{
+    "CarParkId": "107",
+    "CarParkName": "信義國小地下停車場",
+    "TotalSpaces": 237,
+    "AvailableSpaces": 77
+},
+{
+    "CarParkId": "109",
+    "CarParkName": "湖興立體停車場",
+    "TotalSpaces": 256,
+    "AvailableSpaces": 120
+},
+{
+    "CarParkId": "111",
+    "CarParkName": "蘭雅公園地下停車場",
+    "TotalSpaces": 155,
+    "AvailableSpaces": 49
+},
+{
+    "CarParkId": "112",
+    "CarParkName": "臺北市中山運動中心停車場",
+    "TotalSpaces": 58,
+    "AvailableSpaces": 21
+},
+{
+    "CarParkId": "113",
+    "CarParkName": "興隆公園地下停車場",
+    "TotalSpaces": 259,
+    "AvailableSpaces": 66
+},
+{
+    "CarParkId": "114",
+    "CarParkName": "景美國小地下停車場",
+    "TotalSpaces": 253,
+    "AvailableSpaces": 52
+},
+{
+    "CarParkId": "115",
+    "CarParkName": "木柵動物園停車場",
+    "TotalSpaces": 937,
+    "AvailableSpaces": 864
+},
+{
+    "CarParkId": "119",
+    "CarParkName": "大龍國小地下停車場",
+    "TotalSpaces": 272,
+    "AvailableSpaces": 45
+},
+{
+    "CarParkId": "120",
+    "CarParkName": "世貿公園地下停車場",
+    "TotalSpaces": 408,
+    "AvailableSpaces": 253
+},
+{
+    "CarParkId": "124",
+    "CarParkName": "社子國小地下停車場",
+    "TotalSpaces": 476,
+    "AvailableSpaces": 133
+},
+{
+    "CarParkId": "126",
+    "CarParkName": "臺北田徑場站停車場",
+    "TotalSpaces": 270,
+    "AvailableSpaces": 49
+},
+{
+    "CarParkId": "127",
+    "CarParkName": "臺北市中正運動中心停車場",
+    "TotalSpaces": 100,
+    "AvailableSpaces": 27
+},
+{
+    "CarParkId": "128",
+    "CarParkName": "萬興國小地下停車場",
+    "TotalSpaces": 234,
+    "AvailableSpaces": 44
+},
+{
+    "CarParkId": "129",
+    "CarParkName": "西康地下停車場",
+    "TotalSpaces": 88,
+    "AvailableSpaces": 15
+},
+{
+    "CarParkId": "131",
+    "CarParkName": "捷運忠義站轉乘停車場",
+    "TotalSpaces": 45,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "132",
+    "CarParkName": "捷運新北投站轉乘停車場",
+    "TotalSpaces": 25,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "133",
+    "CarParkName": "捷運唭哩岸站轉乘停車場",
+    "TotalSpaces": 38,
+    "AvailableSpaces": 5
+},
+{
+    "CarParkId": "134",
+    "CarParkName": "捷運石牌站轉乘停車場",
+    "TotalSpaces": 66,
+    "AvailableSpaces": 2
+},
+{
+    "CarParkId": "136",
+    "CarParkName": "捷運士林站轉乘停車場1",
+    "TotalSpaces": 139,
+    "AvailableSpaces": 13
+},
+{
+    "CarParkId": "138",
+    "CarParkName": "捷運芝山站轉乘停車場1",
+    "TotalSpaces": 168,
+    "AvailableSpaces": 30
+},
+{
+    "CarParkId": "140",
+    "CarParkName": "捷運民權西路轉乘停車場",
+    "TotalSpaces": 0,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "141",
+    "CarParkName": "捷運內湖站轉乘停車場",
+    "TotalSpaces": 0,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "161",
+    "CarParkName": "臺北市青少年發展處停車場",
+    "TotalSpaces": 142,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "165",
+    "CarParkName": "玉成公園地下停車場",
+    "TotalSpaces": 412,
+    "AvailableSpaces": 94
+},
+{
+    "CarParkId": "173",
+    "CarParkName": "文德站轉乘停車場",
+    "TotalSpaces": 312,
+    "AvailableSpaces": 76
+},
+{
+    "CarParkId": "174",
+    "CarParkName": "內湖機廠轉乘停車場",
+    "TotalSpaces": 314,
+    "AvailableSpaces": 86
+},
+{
+    "CarParkId": "176",
+    "CarParkName": "天母西側停車場",
+    "TotalSpaces": 226,
+    "AvailableSpaces": 118
+},
+{
+    "CarParkId": "177",
+    "CarParkName": "BELLAVITA寶麗廣場停車場",
+    "TotalSpaces": 172,
+    "AvailableSpaces": 125
+},
+{
+    "CarParkId": "181",
+    "CarParkName": "臺北國際航空站第1號計時收費停車場",
+    "TotalSpaces": 115,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "182",
+    "CarParkName": "臺北國際航空站第2號計時收費停車場",
+    "TotalSpaces": 215,
+    "AvailableSpaces": 111
+},
+{
+    "CarParkId": "183",
+    "CarParkName": "臺北國際航空站第3號計時收費停車場",
+    "TotalSpaces": 511,
+    "AvailableSpaces": 200
+},
+{
+    "CarParkId": "184",
+    "CarParkName": "國立台灣科學教育館地下停車場",
+    "TotalSpaces": 469,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "187",
+    "CarParkName": "松山工農地下停車場",
+    "TotalSpaces": 239,
+    "AvailableSpaces": 49
+},
+{
+    "CarParkId": "188",
+    "CarParkName": "松山車站地下停車場",
+    "TotalSpaces": 447,
+    "AvailableSpaces": 272
+},
+{
+    "CarParkId": "193",
+    "CarParkName": "松山國小地下停車場",
+    "TotalSpaces": 292,
+    "AvailableSpaces": 70
+},
+{
+    "CarParkId": "194",
+    "CarParkName": "臺北文創停車場",
+    "TotalSpaces": 571,
+    "AvailableSpaces": 362
+},
+{
+    "CarParkId": "195",
+    "CarParkName": "新糖廍公園地下停車場",
+    "TotalSpaces": 72,
+    "AvailableSpaces": 9
+},
+{
+    "CarParkId": "196",
+    "CarParkName": "石潭平面停車場",
+    "TotalSpaces": 72,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "197",
+    "CarParkName": "康東平面停車場",
+    "TotalSpaces": 39,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "199",
+    "CarParkName": "歐特儀股份有限公司台北車站西區地下停車場",
+    "TotalSpaces": 179,
+    "AvailableSpaces": 60
+},
+{
+    "CarParkId": "201",
+    "CarParkName": "花博公園圓山停車場",
+    "TotalSpaces": 107,
+    "AvailableSpaces": 53
+},
+{
+    "CarParkId": "202",
+    "CarParkName": "捷運木柵站轉乘停車場",
+    "TotalSpaces": 149,
+    "AvailableSpaces": 39
+},
+{
+    "CarParkId": "203",
+    "CarParkName": "臺灣大學辛亥臨時停車場",
+    "TotalSpaces": 435,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "205",
+    "CarParkName": "台北花卉產銷股份有限公司B館",
+    "TotalSpaces": 77,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "206",
+    "CarParkName": "第一殯儀館停車場",
+    "TotalSpaces": 133,
+    "AvailableSpaces": 121
+},
+{
+    "CarParkId": "207",
+    "CarParkName": "臺北市立天文科學教育館地下停車場",
+    "TotalSpaces": 279,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "210",
+    "CarParkName": "K區地下街停車場",
+    "TotalSpaces": 196,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "212",
+    "CarParkName": "辛亥路高架橋下平面停車場",
+    "TotalSpaces": 160,
+    "AvailableSpaces": 91
+},
+{
+    "CarParkId": "213",
+    "CarParkName": "第二殯儀館停車場",
+    "TotalSpaces": 286,
+    "AvailableSpaces": 24
+},
+{
+    "CarParkId": "214",
+    "CarParkName": "應安168台北資訊園區停車場",
+    "TotalSpaces": 464,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "215",
+    "CarParkName": "莒光立體停車場",
+    "TotalSpaces": 111,
+    "AvailableSpaces": 33
+},
+{
+    "CarParkId": "217",
+    "CarParkName": "兩廳院地下停車場",
+    "TotalSpaces": 709,
+    "AvailableSpaces": 436
+},
+{
+    "CarParkId": "219",
+    "CarParkName": "台壽金融總部大樓停車場",
+    "TotalSpaces": 263,
+    "AvailableSpaces": 81
+},
+{
+    "CarParkId": "220",
+    "CarParkName": "南港公園平面停車場",
+    "TotalSpaces": 86,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "223",
+    "CarParkName": "東和平面停車場",
+    "TotalSpaces": 42,
+    "AvailableSpaces": 10
+},
+{
+    "CarParkId": "224",
+    "CarParkName": "復興平面停車場",
+    "TotalSpaces": 71,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "228",
+    "CarParkName": "木柵路三段平面停車場",
+    "TotalSpaces": 54,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "229",
+    "CarParkName": "嘉興公園地下停車場",
+    "TotalSpaces": 195,
+    "AvailableSpaces": 3
+},
+{
+    "CarParkId": "244",
+    "CarParkName": "建國南路高架橋下A區",
+    "TotalSpaces": 287,
+    "AvailableSpaces": 7
+},
+{
+    "CarParkId": "245",
+    "CarParkName": "建國南路高架橋下D區",
+    "TotalSpaces": 66,
+    "AvailableSpaces": 17
+},
+{
+    "CarParkId": "246",
+    "CarParkName": "建國南路高架橋下C區",
+    "TotalSpaces": 108,
+    "AvailableSpaces": 33
+},
+{
+    "CarParkId": "247",
+    "CarParkName": "建國南路高架橋下B區",
+    "TotalSpaces": 240,
+    "AvailableSpaces": 54
+},
+{
+    "CarParkId": "249",
+    "CarParkName": "啟聰學校地下停車場",
+    "TotalSpaces": 179,
+    "AvailableSpaces": 35
+},
+{
+    "CarParkId": "255",
+    "CarParkName": "兒童新樂園附設停車場",
+    "TotalSpaces": 442,
+    "AvailableSpaces": 410
+},
+{
+    "CarParkId": "257",
+    "CarParkName": "福港街平面停車場",
+    "TotalSpaces": 64,
+    "AvailableSpaces": 17
+},
+{
+    "CarParkId": "258",
+    "CarParkName": "兒童育樂中心平面停車場",
+    "TotalSpaces": 47,
+    "AvailableSpaces": 1
+},
+{
+    "CarParkId": "259",
+    "CarParkName": "中山北路三段55巷平面停車場",
+    "TotalSpaces": 60,
+    "AvailableSpaces": 17
+},
+{
+    "CarParkId": "260",
+    "CarParkName": "臺北小巨蛋地下停車場",
+    "TotalSpaces": 476,
+    "AvailableSpaces": 261
+},
+{
+    "CarParkId": "261",
+    "CarParkName": "百齡橋旁平面停車場",
+    "TotalSpaces": 140,
+    "AvailableSpaces": 11
+},
+{
+    "CarParkId": "264",
+    "CarParkName": "便利停車場大安地政事務所站",
+    "TotalSpaces": 78,
+    "AvailableSpaces": 25
+},
+{
+    "CarParkId": "266",
+    "CarParkName": "至誠平面停車場",
+    "TotalSpaces": 85,
+    "AvailableSpaces": 15
+},
+{
+    "CarParkId": "267",
+    "CarParkName": "關渡醫院旁平面停車場",
+    "TotalSpaces": 37,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "268",
+    "CarParkName": "公館路228巷平面停車場",
+    "TotalSpaces": 68,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "269",
+    "CarParkName": "明德臨時平面停車場",
+    "TotalSpaces": 29,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "271",
+    "CarParkName": "文湖平面停車場",
+    "TotalSpaces": 34,
+    "AvailableSpaces": 22
+},
+{
+    "CarParkId": "272",
+    "CarParkName": "龍江平面停車場",
+    "TotalSpaces": 26,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "283",
+    "CarParkName": "臺北大橋橋下停車場",
+    "TotalSpaces": 85,
+    "AvailableSpaces": 12
+},
+{
+    "CarParkId": "297",
+    "CarParkName": "和平東路四段381巷平面停車場",
+    "TotalSpaces": 26,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "298",
+    "CarParkName": "三福街平面停車場",
+    "TotalSpaces": 40,
+    "AvailableSpaces": 27
+},
+{
+    "CarParkId": "299",
+    "CarParkName": "台北市立大學天母校區地下停車場",
+    "TotalSpaces": 482,
+    "AvailableSpaces": 37
+},
+{
+    "CarParkId": "300",
+    "CarParkName": "吉祥平面停車場",
+    "TotalSpaces": 31,
+    "AvailableSpaces": 7
+},
+{
+    "CarParkId": "301",
+    "CarParkName": "南港車站地下停車場",
+    "TotalSpaces": 1123,
+    "AvailableSpaces": 729
+},
+{
+    "CarParkId": "308",
+    "CarParkName": "延平北路5段1巷平面停車場",
+    "TotalSpaces": 158,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "309",
+    "CarParkName": "景豐臨時平面停車場",
+    "TotalSpaces": 45,
+    "AvailableSpaces": 21
+},
+{
+    "CarParkId": "310",
+    "CarParkName": "中央北路四段平面停車場",
+    "TotalSpaces": 24,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "311",
+    "CarParkName": "天母公園平面停車場",
+    "TotalSpaces": 15,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "312",
+    "CarParkName": "行義路平面停車場",
+    "TotalSpaces": 18,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "313",
+    "CarParkName": "社中街平面停車場",
+    "TotalSpaces": 32,
+    "AvailableSpaces": 13
+},
+{
+    "CarParkId": "314",
+    "CarParkName": "社正路平面停車場",
+    "TotalSpaces": 33,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "318",
+    "CarParkName": "華江橋下雙層停車場",
+    "TotalSpaces": 157,
+    "AvailableSpaces": 25
+},
+{
+    "CarParkId": "324",
+    "CarParkName": "松德停車場",
+    "TotalSpaces": 56,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "326",
+    "CarParkName": "興隆市場旁停車場",
+    "TotalSpaces": 36,
+    "AvailableSpaces": 22
+},
+{
+    "CarParkId": "327",
+    "CarParkName": "溪洲街平面停車場",
+    "TotalSpaces": 18,
+    "AvailableSpaces": 9
+},
+{
+    "CarParkId": "328",
+    "CarParkName": "吳興街284巷臨時平面停車場",
+    "TotalSpaces": 51,
+    "AvailableSpaces": 16
+},
+{
+    "CarParkId": "331",
+    "CarParkName": "耕莘文教院前平面停車場",
+    "TotalSpaces": 59,
+    "AvailableSpaces": 15
+},
+{
+    "CarParkId": "334",
+    "CarParkName": "臺北市文山運動中心停車場",
+    "TotalSpaces": 81,
+    "AvailableSpaces": 23
+},
+{
+    "CarParkId": "335",
+    "CarParkName": "大理地下停車場",
+    "TotalSpaces": 51,
+    "AvailableSpaces": 24
+},
+{
+    "CarParkId": "336",
+    "CarParkName": "松山火車站機車停車場",
+    "TotalSpaces": 0,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "339",
+    "CarParkName": "濱江市場地下停車場",
+    "TotalSpaces": 357,
+    "AvailableSpaces": 90
+},
+{
+    "CarParkId": "340",
+    "CarParkName": "南港立體停車場",
+    "TotalSpaces": 406,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "341",
+    "CarParkName": "台北企業總部湖區地下停車場",
+    "TotalSpaces": 355,
+    "AvailableSpaces": 41
+},
+{
+    "CarParkId": "342",
+    "CarParkName": "國立臺灣大學水源停車場",
+    "TotalSpaces": 146,
+    "AvailableSpaces": 84
+},
+{
+    "CarParkId": "345",
+    "CarParkName": "光復東村廣場平面停車場",
+    "TotalSpaces": 182,
+    "AvailableSpaces": 53
+},
+{
+    "CarParkId": "358",
+    "CarParkName": "臺北市立聯合醫院仁愛院區停車場",
+    "TotalSpaces": 61,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "361",
+    "CarParkName": "嘟嘟房南港展覽館停車場",
+    "TotalSpaces": 633,
+    "AvailableSpaces": 502
+},
+{
+    "CarParkId": "365",
+    "CarParkName": "全國停車場重慶站",
+    "TotalSpaces": 481,
+    "AvailableSpaces": 386
+},
+{
+    "CarParkId": "371",
+    "CarParkName": "捷運南港展覽館站轉乘停車場",
+    "TotalSpaces": 0,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "372",
+    "CarParkName": "八德立體停車場",
+    "TotalSpaces": 310,
+    "AvailableSpaces": 134
+},
+{
+    "CarParkId": "373",
+    "CarParkName": "臺北市網球中心停車場",
+    "TotalSpaces": 338,
+    "AvailableSpaces": 166
+},
+{
+    "CarParkId": "376",
+    "CarParkName": "台北榮民總醫院地面停車場",
+    "TotalSpaces": 34,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "377",
+    "CarParkName": "臺北榮民總醫院2號門地下室停車場",
+    "TotalSpaces": 366,
+    "AvailableSpaces": 231
+},
+{
+    "CarParkId": "378",
+    "CarParkName": "台北榮民總醫院立體停車場",
+    "TotalSpaces": 902,
+    "AvailableSpaces": 386
+},
+{
+    "CarParkId": "379",
+    "CarParkName": "民生建國大樓停車場",
+    "TotalSpaces": 314,
+    "AvailableSpaces": 85
+},
+{
+    "CarParkId": "380",
+    "CarParkName": "健安新城E區管理委員會停車場",
+    "TotalSpaces": 85,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "381",
+    "CarParkName": "嘟嘟房南港展覽館2站停車場",
+    "TotalSpaces": 1290,
+    "AvailableSpaces": 1059
+},
+{
+    "CarParkId": "382",
+    "CarParkName": "叭叭房南軟大樓停車場",
+    "TotalSpaces": 137,
+    "AvailableSpaces": 91
+},
+{
+    "CarParkId": "383",
+    "CarParkName": "大同高中平面停車場",
+    "TotalSpaces": 84,
+    "AvailableSpaces": 23
+},
+{
+    "CarParkId": "384",
+    "CarParkName": "興隆D2區公共住宅地下停車場",
+    "TotalSpaces": 349,
+    "AvailableSpaces": 69
+},
+{
+    "CarParkId": "386",
+    "CarParkName": "嘟嘟房台大水源站停車場",
+    "TotalSpaces": 350,
+    "AvailableSpaces": 189
+},
+{
+    "CarParkId": "387",
+    "CarParkName": "南港二期室內停車場",
+    "TotalSpaces": 229,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "395",
+    "CarParkName": "叭叭房亞太A區停車場",
+    "TotalSpaces": 154,
+    "AvailableSpaces": 17
+},
+{
+    "CarParkId": "396",
+    "CarParkName": "叭叭房亞太C區停車場",
+    "TotalSpaces": 291,
+    "AvailableSpaces": 43
+},
+{
+    "CarParkId": "397",
+    "CarParkName": "叭叭房新光醫院地下停車場",
+    "TotalSpaces": 84,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "398",
+    "CarParkName": "叭叭房大台北瓦斯大樓地下停車場",
+    "TotalSpaces": 107,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "402",
+    "CarParkName": "嘟嘟房臺北體育館地下停車場",
+    "TotalSpaces": 154,
+    "AvailableSpaces": 54
+},
+{
+    "CarParkId": "404",
+    "CarParkName": "城中社福地下停車場",
+    "TotalSpaces": 42,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "405",
+    "CarParkName": "遠東百貨信義分公司停車場",
+    "TotalSpaces": 293,
+    "AvailableSpaces": 109
+},
+{
+    "CarParkId": "406",
+    "CarParkName": "景勤二號公園地下停車場",
+    "TotalSpaces": 219,
+    "AvailableSpaces": 25
+},
+{
+    "CarParkId": "407",
+    "CarParkName": "長春路龍江路臨時平面停車場",
+    "TotalSpaces": 38,
+    "AvailableSpaces": 11
+},
+{
+    "CarParkId": "408",
+    "CarParkName": "正氣橋下停車場",
+    "TotalSpaces": 63,
+    "AvailableSpaces": 13
+},
+{
+    "CarParkId": "409",
+    "CarParkName": "吳興街220巷59弄平面停車場",
+    "TotalSpaces": 150,
+    "AvailableSpaces": 30
+},
+{
+    "CarParkId": "412",
+    "CarParkName": "保儀路平面停車場",
+    "TotalSpaces": 45,
+    "AvailableSpaces": 5
+},
+{
+    "CarParkId": "413",
+    "CarParkName": "富台公園(一)平面停車場",
+    "TotalSpaces": 61,
+    "AvailableSpaces": 34
+},
+{
+    "CarParkId": "414",
+    "CarParkName": "富台公園(二)平面停車場",
+    "TotalSpaces": 67,
+    "AvailableSpaces": 43
+},
+{
+    "CarParkId": "416",
+    "CarParkName": "知行路平面停車場",
+    "TotalSpaces": 50,
+    "AvailableSpaces": 14
+},
+{
+    "CarParkId": "417",
+    "CarParkName": "新生公園停車場",
+    "TotalSpaces": 114,
+    "AvailableSpaces": 16
+},
+{
+    "CarParkId": "418",
+    "CarParkName": "萬芳醫院附設停車場",
+    "TotalSpaces": 255,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "419",
+    "CarParkName": "迪化污水處理場平面停車場",
+    "TotalSpaces": 94,
+    "AvailableSpaces": 22
+},
+{
+    "CarParkId": "420",
+    "CarParkName": "嘟嘟房台北網球場站停車場",
+    "TotalSpaces": 16,
+    "AvailableSpaces": 6
+},
+{
+    "CarParkId": "421",
+    "CarParkName": "關渡水岸自然公園平面停車場",
+    "TotalSpaces": 319,
+    "AvailableSpaces": 271
+},
+{
+    "CarParkId": "422",
+    "CarParkName": "臺北市北投區行政中心地下室停車場",
+    "TotalSpaces": 18,
+    "AvailableSpaces": 15
+},
+{
+    "CarParkId": "423",
+    "CarParkName": "西門國小停車場",
+    "TotalSpaces": 32,
+    "AvailableSpaces": 18
+},
+{
+    "CarParkId": "424",
+    "CarParkName": "華陰街臨時平面停車場",
+    "TotalSpaces": 26,
+    "AvailableSpaces": 4
+},
+{
+    "CarParkId": "425",
+    "CarParkName": "臺北市大同運動中心地下停車場",
+    "TotalSpaces": 48,
+    "AvailableSpaces": 1
+},
+{
+    "CarParkId": "426",
+    "CarParkName": "博嘉運動公園停車場",
+    "TotalSpaces": 36,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "427",
+    "CarParkName": "關渡國小運動中心停車場",
+    "TotalSpaces": 17,
+    "AvailableSpaces": 2
+},
+{
+    "CarParkId": "428",
+    "CarParkName": "臺北市立大學天母校區體育館戶外平面停車場",
+    "TotalSpaces": 82,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "429",
+    "CarParkName": "松德臨時平面停車場",
+    "TotalSpaces": 101,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "430",
+    "CarParkName": "景新大樓地下停車場",
+    "TotalSpaces": 46,
+    "AvailableSpaces": 32
+},
+{
+    "CarParkId": "431",
+    "CarParkName": "水岸停車場",
+    "TotalSpaces": 119,
+    "AvailableSpaces": 59
+},
+{
+    "CarParkId": "432",
+    "CarParkName": "內湖垃圾焚化廠停車場",
+    "TotalSpaces": 89,
+    "AvailableSpaces": 74
+},
+{
+    "CarParkId": "433",
+    "CarParkName": "公館停車場",
+    "TotalSpaces": 136,
+    "AvailableSpaces": 81
+},
+{
+    "CarParkId": "434",
+    "CarParkName": "環山平面停車場",
+    "TotalSpaces": 32,
+    "AvailableSpaces": 4
+},
+{
+    "CarParkId": "435",
+    "CarParkName": "臺北市內湖運動中心停車場",
+    "TotalSpaces": 101,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "436",
+    "CarParkName": "臺北市士林區行政中心地下停車場",
+    "TotalSpaces": 34,
+    "AvailableSpaces": 33
+},
+{
+    "CarParkId": "437",
+    "CarParkName": "洲美運動公園地下停車場",
+    "TotalSpaces": 88,
+    "AvailableSpaces": 65
+},
+{
+    "CarParkId": "438",
+    "CarParkName": "大安區行政中心地下停車場",
+    "TotalSpaces": 115,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "439",
+    "CarParkName": "關渡自然公園停車場",
+    "TotalSpaces": 58,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "440",
+    "CarParkName": "信義區行政中心停車場",
+    "TotalSpaces": 17,
+    "AvailableSpaces": 1
+},
+{
+    "CarParkId": "441",
+    "CarParkName": "南港區行政中心地下停車場",
+    "TotalSpaces": 9,
+    "AvailableSpaces": 4
+},
+{
+    "CarParkId": "442",
+    "CarParkName": "北投運動中心停車場",
+    "TotalSpaces": 97,
+    "AvailableSpaces": 11
+},
+{
+    "CarParkId": "443",
+    "CarParkName": "南門(中繼)市場",
+    "TotalSpaces": 106,
+    "AvailableSpaces": 68
+},
+{
+    "CarParkId": "444",
+    "CarParkName": "玉泉公園停車場",
+    "TotalSpaces": 24,
+    "AvailableSpaces": 15
+},
+{
+    "CarParkId": "445",
+    "CarParkName": "Times 大龍新城地下",
+    "TotalSpaces": 198,
+    "AvailableSpaces": 102
+},
+{
+    "CarParkId": "446",
+    "CarParkName": "臺北市立中正高級中學(停車場管理)",
+    "TotalSpaces": 67,
+    "AvailableSpaces": 8
+},
+{
+    "CarParkId": "447",
+    "CarParkName": "臺北市士林運動中心停車場",
+    "TotalSpaces": 64,
+    "AvailableSpaces": 15
+},
+{
+    "CarParkId": "448",
+    "CarParkName": "臺北國際醫旅停車場",
+    "TotalSpaces": 34,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "449",
+    "CarParkName": "臺北市南港運動中心停車場",
+    "TotalSpaces": 94,
+    "AvailableSpaces": 11
+},
+{
+    "CarParkId": "450",
+    "CarParkName": "華江高中活動中心地下停車場",
+    "TotalSpaces": 35,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "451",
+    "CarParkName": "內湖區行政中心停車場",
+    "TotalSpaces": 20,
+    "AvailableSpaces": 18
+},
+{
+    "CarParkId": "452",
+    "CarParkName": "TIMES松山運動中心",
+    "TotalSpaces": 57,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "453",
+    "CarParkName": "臺北市立關渡醫院停車場",
+    "TotalSpaces": 53,
+    "AvailableSpaces": 11
+},
+{
+    "CarParkId": "454",
+    "CarParkName": "捷運北投機廠地下停車場",
+    "TotalSpaces": 184,
+    "AvailableSpaces": 170
+},
+{
+    "CarParkId": "455",
+    "CarParkName": "正好停吳興站停車場",
+    "TotalSpaces": 65,
+    "AvailableSpaces": 3
+},
+{
+    "CarParkId": "456",
+    "CarParkName": "台灣聯通光華商場停車場",
+    "TotalSpaces": 81,
+    "AvailableSpaces": 43
+},
+{
+    "CarParkId": "457",
+    "CarParkName": "中山區行政中心停車場",
+    "TotalSpaces": 11,
+    "AvailableSpaces": 10
+},
+{
+    "CarParkId": "458",
+    "CarParkName": "臺北市大同區行政中心地下停車場",
+    "TotalSpaces": 79,
+    "AvailableSpaces": 11
+},
+{
+    "CarParkId": "459",
+    "CarParkName": "臺北市文山區文山行政中心停車場",
+    "TotalSpaces": 55,
+    "AvailableSpaces": 43
+},
+{
+    "CarParkId": "460",
+    "CarParkName": "助安168永樂市場停車場",
+    "TotalSpaces": 64,
+    "AvailableSpaces": 35
+},
+{
+    "CarParkId": "461",
+    "CarParkName": "臺北和平籃球館停車場",
+    "TotalSpaces": 190,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "462",
+    "CarParkName": "京站停車場",
+    "TotalSpaces": 551,
+    "AvailableSpaces": 208
+},
+{
+    "CarParkId": "463",
+    "CarParkName": "科技服務大樓附設停車場",
+    "TotalSpaces": 146,
+    "AvailableSpaces": 10
+},
+{
+    "CarParkId": "464",
+    "CarParkName": "松山區行政中心地下停車場",
+    "TotalSpaces": 15,
+    "AvailableSpaces": 2
+},
+{
+    "CarParkId": "465",
+    "CarParkName": "應安168大龍停車場",
+    "TotalSpaces": 45,
+    "AvailableSpaces": 13
+},
+{
+    "CarParkId": "466",
+    "CarParkName": "臺北市大安運動中心停車場",
+    "TotalSpaces": 54,
+    "AvailableSpaces": 4
+},
+{
+    "CarParkId": "467",
+    "CarParkName": "成德國中運動中心",
+    "TotalSpaces": 26,
+    "AvailableSpaces": 7
+},
+{
+    "CarParkId": "468",
+    "CarParkName": "北台國際開發有限公司葫蘆堵停車場",
+    "TotalSpaces": 54,
+    "AvailableSpaces": 45
+},
+{
+    "CarParkId": "469",
+    "CarParkName": "應安168六合市場停車場",
+    "TotalSpaces": 45,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "470",
+    "CarParkName": "驛林交通股份有限公司興隆站",
+    "TotalSpaces": 48,
+    "AvailableSpaces": 10
+},
+{
+    "CarParkId": "471",
+    "CarParkName": "通安停車場",
+    "TotalSpaces": 17,
+    "AvailableSpaces": 15
+},
+{
+    "CarParkId": "472",
+    "CarParkName": "市府轉運站停車場",
+    "TotalSpaces": 483,
+    "AvailableSpaces": 207
+},
+{
+    "CarParkId": "473",
+    "CarParkName": "台北中山市場地下停車場",
+    "TotalSpaces": 56,
+    "AvailableSpaces": 15
+},
+{
+    "CarParkId": "474",
+    "CarParkName": "洲子站",
+    "TotalSpaces": 36,
+    "AvailableSpaces": 99
+},
+{
+    "CarParkId": "475",
+    "CarParkName": "力勝開發股份有限公司內湖捷運站停車場",
+    "TotalSpaces": 666,
+    "AvailableSpaces": 373
+},
+{
+    "CarParkId": "476",
+    "CarParkName": "Times 萬華運動中心停車場",
+    "TotalSpaces": 48,
+    "AvailableSpaces": 25
+},
+{
+    "CarParkId": "477",
+    "CarParkName": "永康停車場",
+    "TotalSpaces": 15,
+    "AvailableSpaces": 5
+},
+{
+    "CarParkId": "478",
+    "CarParkName": "台灣聯通長春停車場",
+    "TotalSpaces": 18,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "479",
+    "CarParkName": "台灣聯通南京停車場",
+    "TotalSpaces": 246,
+    "AvailableSpaces": 19
+},
+{
+    "CarParkId": "480",
+    "CarParkName": "應安168士林一停車場",
+    "TotalSpaces": 71,
+    "AvailableSpaces": 21
+},
+{
+    "CarParkId": "481",
+    "CarParkName": "士林市場地下停車場",
+    "TotalSpaces": 48,
+    "AvailableSpaces": 3
+},
+{
+    "CarParkId": "482",
+    "CarParkName": "應安168延吉停車場",
+    "TotalSpaces": 31,
+    "AvailableSpaces": 31
+},
+{
+    "CarParkId": "483",
+    "CarParkName": "台北地下街停車場",
+    "TotalSpaces": 400,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "484",
+    "CarParkName": "南湖高中運動中心停車場",
+    "TotalSpaces": 166,
+    "AvailableSpaces": 36
+},
+{
+    "CarParkId": "485",
+    "CarParkName": "台北龍江停車場",
+    "TotalSpaces": 1,
+    "AvailableSpaces": -99
+},
+{
+    "CarParkId": "486",
+    "CarParkName": "民族魚市場停車場",
+    "TotalSpaces": 121,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "487",
+    "CarParkName": "環南堤外停車場",
+    "TotalSpaces": 454,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "488",
+    "CarParkName": "西湖市場暨捷運站地下停車場",
+    "TotalSpaces": 200,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "489",
+    "CarParkName": "嘟嘟房龍江八德停車場",
+    "TotalSpaces": 23,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "490",
+    "CarParkName": "臺北市公有士東市場地下室停車場",
+    "TotalSpaces": 11,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "491",
+    "CarParkName": "嘟嘟房饒河夜市1站停車場",
+    "TotalSpaces": 16,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "492",
+    "CarParkName": "嘟嘟房饒河夜市2站停車場",
+    "TotalSpaces": 8,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "493",
+    "CarParkName": "北台國際開發有限公司舊莊停車場",
+    "TotalSpaces": 24,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "494",
+    "CarParkName": "北台國際開發有限公司石牌停車場",
+    "TotalSpaces": 30,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "495",
+    "CarParkName": "樟新平面停車場",
+    "TotalSpaces": 43,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "496",
+    "CarParkName": "木柵路三段平面停車場",
+    "TotalSpaces": 54,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "497",
+    "CarParkName": "木柵路三段77巷臨時平面停車場",
+    "TotalSpaces": 23,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "498",
+    "CarParkName": "政大三街臨時平面停車場",
+    "TotalSpaces": 49,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "499",
+    "CarParkName": "雙溪公園平面停車場",
+    "TotalSpaces": 6,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "500",
+    "CarParkName": "新生北路二段77巷臨時平面停車場",
+    "TotalSpaces": 8,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "501",
+    "CarParkName": "永建市場旁平面停車場",
+    "TotalSpaces": 18,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "502",
+    "CarParkName": "成功路五段120巷臨時平面停車場",
+    "TotalSpaces": 24,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "503",
+    "CarParkName": "美德街平面停車場",
+    "TotalSpaces": 15,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "504",
+    "CarParkName": "慶昌橋下停車場",
+    "TotalSpaces": 72,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "505",
+    "CarParkName": "四維廣場停車場",
+    "TotalSpaces": 36,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "506",
+    "CarParkName": "嘟嘟房木柵全聯站",
+    "TotalSpaces": 16,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "507",
+    "CarParkName": "安康平宅臨時平面停車場",
+    "TotalSpaces": 2,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "508",
+    "CarParkName": "安康平宅B臨時平面停車",
+    "TotalSpaces": 2,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "509",
+    "CarParkName": "南門(中繼)市場",
+    "TotalSpaces": 106,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "510",
+    "CarParkName": "國泰襄陽大樓停車場",
+    "TotalSpaces": 28,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "511",
+    "CarParkName": "國泰金融大樓停車場",
+    "TotalSpaces": 180,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "512",
+    "CarParkName": "萬芳八號公園停車場",
+    "TotalSpaces": 107,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "513",
+    "CarParkName": "景文平面停車場",
+    "TotalSpaces": 55,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "514",
+    "CarParkName": "樂群臨時平面停車場",
+    "TotalSpaces": 151,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "515",
+    "CarParkName": "金湖臨時平面停車場",
+    "TotalSpaces": 61,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "516",
+    "CarParkName": "行善路383巷臨時平面停車場",
+    "TotalSpaces": 182,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "517",
+    "CarParkName": "福林路平面停車場",
+    "TotalSpaces": 77,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "518",
+    "CarParkName": "內湖污水處理廠附設公園停車場",
+    "TotalSpaces": 57,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "519",
+    "CarParkName": "大業路280巷臨時平面停車場",
+    "TotalSpaces": 41,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "520",
+    "CarParkName": "秀山國小臨時平面停車場",
+    "TotalSpaces": 19,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "521",
+    "CarParkName": "八德路二段臨時平面停車場",
+    "TotalSpaces": 8,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "522",
+    "CarParkName": "臨沂街臨時平面停車場(二)",
+    "TotalSpaces": 9,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "523",
+    "CarParkName": "安祥公園旁平面停車場",
+    "TotalSpaces": 10,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "524",
+    "CarParkName": "長春路平面停車場",
+    "TotalSpaces": 22,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "525",
+    "CarParkName": "信義路5段150巷平面停車場",
+    "TotalSpaces": 16,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "526",
+    "CarParkName": "星雲街210巷口臨時平面停車場",
+    "TotalSpaces": 25,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "527",
+    "CarParkName": "光復北路平面停車場",
+    "TotalSpaces": 25,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "528",
+    "CarParkName": "五常街臨時平面停車場",
+    "TotalSpaces": 32,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "529",
+    "CarParkName": "至善公園平面停車場",
+    "TotalSpaces": 32,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "530",
+    "CarParkName": "洲美快速道路橋下平面停車場",
+    "TotalSpaces": 26,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "531",
+    "CarParkName": "福國路橋下平面停車場",
+    "TotalSpaces": 48,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "532",
+    "CarParkName": "濱江橋下平面停車場",
+    "TotalSpaces": 18,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "533",
+    "CarParkName": "臨沂街臨時平面停車場(一)",
+    "TotalSpaces": 17,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "534",
+    "CarParkName": "萬慶街平面停車場",
+    "TotalSpaces": 18,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "535",
+    "CarParkName": "師大平面停車場",
+    "TotalSpaces": 59,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "536",
+    "CarParkName": "新生高架(南京東路-長安東路)",
+    "TotalSpaces": 49,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "537",
+    "CarParkName": "新生高架(長安東路-新生北路一段62巷)",
+    "TotalSpaces": 14,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "538",
+    "CarParkName": "新生高架(松江-金山北(橋外))",
+    "TotalSpaces": 46,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "539",
+    "CarParkName": "新生高架(南京東路-長春路)",
+    "TotalSpaces": 2,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "540",
+    "CarParkName": "新生高架(長春路-民生東路)",
+    "TotalSpaces": 59,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "541",
+    "CarParkName": "新生高架(民生東-錦州街)",
+    "TotalSpaces": 34,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "542",
+    "CarParkName": "新生高架(錦州街-民權東路)",
+    "TotalSpaces": 244,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "543",
+    "CarParkName": "新生高架(民權東路-農安街)",
+    "TotalSpaces": 75,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "544",
+    "CarParkName": "新生高架(農安街-民族東路)",
+    "TotalSpaces": 150,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "545",
+    "CarParkName": "長安東路臨時平面停車場(一)",
+    "TotalSpaces": 5,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "546",
+    "CarParkName": "客委會臨時平面停車場",
+    "TotalSpaces": 13,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "547",
+    "CarParkName": "木柵公園平面停車場",
+    "TotalSpaces": 8,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "548",
+    "CarParkName": "信義路5段150巷臨時平面停車場",
+    "TotalSpaces": 30,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "549",
+    "CarParkName": "華中橋堤外停車場",
+    "TotalSpaces": 544,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "550",
+    "CarParkName": "士林一品大廈地下停車場",
+    "TotalSpaces": 52,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "551",
+    "CarParkName": "桂林路底堤外停車場",
+    "TotalSpaces": 110,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "552",
+    "CarParkName": "雙園堤外平面停車場",
+    "TotalSpaces": 748,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "553",
+    "CarParkName": "雙園平面停車場",
+    "TotalSpaces": 147,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "554",
+    "CarParkName": "三腳渡平面停車場",
+    "TotalSpaces": 127,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "555",
+    "CarParkName": "劍潭抽水站堤外平面停車場",
+    "TotalSpaces": 261,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "556",
+    "CarParkName": "百齡橋堤外槌球場南側臨時平面停車場",
+    "TotalSpaces": 305,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "557",
+    "CarParkName": "百齡橋堤外(一)平面停車場",
+    "TotalSpaces": 138,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "558",
+    "CarParkName": "百齡橋堤外足球場(一)停車場",
+    "TotalSpaces": 149,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "559",
+    "CarParkName": "百齡橋堤外足球場(二)停車場",
+    "TotalSpaces": 109,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "560",
+    "CarParkName": "通河西街一段堤外平面停車場",
+    "TotalSpaces": 53,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "561",
+    "CarParkName": "三號水門堤外停車場",
+    "TotalSpaces": 174,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "562",
+    "CarParkName": "五號水門堤外停車場",
+    "TotalSpaces": 69,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "563",
+    "CarParkName": "承德橋下停車場",
+    "TotalSpaces": 181,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "564",
+    "CarParkName": "基隆河河濱公園迎風段(一)停車場",
+    "TotalSpaces": 189,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "565",
+    "CarParkName": "彩虹河濱公園堤外停車場",
+    "TotalSpaces": 568,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "566",
+    "CarParkName": "研究院路平面停車場",
+    "TotalSpaces": 9,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "567",
+    "CarParkName": "洲美快速道路高架橋下平面停車場",
+    "TotalSpaces": 19,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "568",
+    "CarParkName": "臺北市第一果菜批發市場堤外專屬停車場1",
+    "TotalSpaces": 1000,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "569",
+    "CarParkName": "臺北市第一果菜批發市場堤外專屬停車場2",
+    "TotalSpaces": 750,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "570",
+    "CarParkName": "臺北市第二果菜批發市場停車場",
+    "TotalSpaces": 621,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "571",
+    "CarParkName": "新長越長安大樓停車場",
+    "TotalSpaces": 148,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "572",
+    "CarParkName": "新長越中山大樓停車場",
+    "TotalSpaces": 79,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "573",
+    "CarParkName": "德惠大同停車場",
+    "TotalSpaces": 42,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "574",
+    "CarParkName": "南松山停車場",
+    "TotalSpaces": 13,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "575",
+    "CarParkName": "環南停車場",
+    "TotalSpaces": 164,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "576",
+    "CarParkName": "汀州路停車場",
+    "TotalSpaces": 27,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "577",
+    "CarParkName": "貴陽街停車場",
+    "TotalSpaces": 6,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "578",
+    "CarParkName": "西園國宅地下停車場",
+    "TotalSpaces": 43,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "579",
+    "CarParkName": "通泰商業大樓收費停車場",
+    "TotalSpaces": 122,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "580",
+    "CarParkName": "市民大道(延吉段)",
+    "TotalSpaces": 81,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "581",
+    "CarParkName": "林森公園地下停車場",
+    "TotalSpaces": 867,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "582",
+    "CarParkName": "市民大道(敦延段)",
+    "TotalSpaces": 222,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "583",
+    "CarParkName": "臺北流行音樂中心停車場",
+    "TotalSpaces": 293,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "584",
+    "CarParkName": "松德醫院停車場",
+    "TotalSpaces": 31,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "585",
+    "CarParkName": "太平洋崇光百貨股份有限公司天母店停車",
+    "TotalSpaces": 368,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "586",
+    "CarParkName": "藝文公園停車場",
+    "TotalSpaces": 49,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "587",
+    "CarParkName": "助安168新光三越停車場",
+    "TotalSpaces": 45,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "588",
+    "CarParkName": "助安168福港停車場",
+    "TotalSpaces": 50,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "589",
+    "CarParkName": "應安168昆陽停車場(南港信義保管場)",
+    "TotalSpaces": 96,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "590",
+    "CarParkName": "應安168新昆陽停車場",
+    "TotalSpaces": 48,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "591",
+    "CarParkName": "市民大道(復敦段)",
+    "TotalSpaces": 219,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "592",
+    "CarParkName": "市民大道(建復段)",
+    "TotalSpaces": 183,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "593",
+    "CarParkName": "驛東交停企業有限公司環南市場一期停車場",
+    "TotalSpaces": 541,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "594",
+    "CarParkName": "嘟嘟房敦北頂好站停車場",
+    "TotalSpaces": 13,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "595",
+    "CarParkName": "堤外魚類中繼市場停車場",
+    "TotalSpaces": 307,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "596",
+    "CarParkName": "中山北路2段42巷臨時平面停車場",
+    "TotalSpaces": 22,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "597",
+    "CarParkName": "中山運動中心旁臨時平面停車場",
+    "TotalSpaces": 53,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "598",
+    "CarParkName": "萬和超市地下停車場",
+    "TotalSpaces": 17,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "599",
+    "CarParkName": "中崙加油站第一平面停車",
+    "TotalSpaces": 49,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "600",
+    "CarParkName": "中崙加油站第二平面停車",
+    "TotalSpaces": 49,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "601",
+    "CarParkName": "新生南路1段103巷臨時平面停車場",
+    "TotalSpaces": 14,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "602",
+    "CarParkName": "吳興街220巷59弄平面停車場",
+    "TotalSpaces": 150,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "603",
+    "CarParkName": "吳興街220巷平面停車場",
+    "TotalSpaces": 82,
+    "AvailableSpaces": 0
+},
+{
+    "CarParkId": "99",
+    "CarParkName": "長安國小地下停車場",
+    "TotalSpaces": 284,
+    "AvailableSpaces": 0
+},
